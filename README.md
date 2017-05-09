@@ -1,5 +1,5 @@
 # mBlog
-个人收藏的博客
+个人 star项目整理
 ## Matisse 相册视频选择库 
 ## StateButton 使用代码代替shape和select文件的自定义button 
 ## FloatWindowPermission 6.0以下手机权限申请（适用大部分手机）
@@ -16,3 +16,15 @@
 ## YLListView仿IOS弹簧效果的ListView
 ## WoWoViewPager  酷炫的Viewpager实现的引导页
 ## android-gif-drawable  安卓播放gif
+
+#  20170509 整理
+##  GoodView Android点赞+1效果，支持文本和图像
+## NineGridView 9宫格图片
+## MagicIndicator viewpager指示器框架
+## LQREmojiLibrary 类似QQ聊天表情选择器
+## Luban  鲁班图片压缩算法，接近微信朋友圈图片压缩算法
+## richeditor-android 超强的富文本编辑器
+## Material-Animations design包动画学习库
+## android-best-practices 安卓开发中的最佳做法
+## android-actionbarstylegenerator 安卓动作栏样式生成器
+## Awesome-MaterialDesign MaterialDesign 规范整理
