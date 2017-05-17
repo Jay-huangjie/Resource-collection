@@ -1,5 +1,5 @@
 # mStar
-个人 star项目整理
+个人 star项目整理,对你有帮助的可以复制项目名称去搜索，欢迎star和fork
 
 # 目录 
 
@@ -10,6 +10,9 @@
 * Material-Animations design包动画学习库
 * android-best-practices 安卓开发中的最佳做法
 * Awesome-MaterialDesign MaterialDesign 规范整理
+* android-hidden-api 查看android隐藏API
+* LKShop 开源商城项目源码
+
 
 ### 类库
 * Matisse 相册视频选择库 
@@ -38,3 +41,5 @@
 * ViewAnimator 一个可以方便实现属性动画的开源库
 * GoodView Android点赞+1效果，支持文本和图像
 
+### API
+* Transitions-Everywhere 兼容到API2.2的Transitions API
