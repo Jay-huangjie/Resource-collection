@@ -1,4 +1,4 @@
-# mStar
+# Star
 个人 star项目整理,对你有帮助的可以复制项目名称去搜索，欢迎star和fork
 
 # 目录 
@@ -12,7 +12,12 @@
 * Awesome-MaterialDesign MaterialDesign 规范整理
 * android-hidden-api 查看android隐藏API
 * LKShop 开源商城项目源码
-
+* KLineGraph 股票自定义项目
+* StyleTextView 对于自定义文字的基线的一些见解参考
+* QQNaviView 仿QQ底部导航栏的拖延效果
+* PandaEye 一款基于 mvp+rxjava+retrofit+Picasso 的应用，内容来自知乎日报，网易新闻，咪咕视频。实现了新闻列表的磁盘缓存
+* AndroidNote 安卓学习笔记
+* android-tech-frontier 【停止维护】一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目
 
 ### 类库
 * Matisse 相册视频选择库 
@@ -33,6 +38,9 @@
 * MagicIndicator viewpager指示器框架
 * LQREmojiLibrary 类似QQ聊天表情选择器
 * Luban  鲁班图片压缩算法，接近微信朋友圈图片压缩算法
+* Rxjava系列：RxBinding，RxLifecycle，RxJava2-Android-Samples，RxDownload，RxAndroid， RxDocs
+* materialish-progress 兼容到2.3的material style风格的进度条
+* flexbox-layout 谷歌开源的仿css的flex布局
 
 ### 工具
 * android-actionbarstylegenerator 安卓动作栏样式生成器
