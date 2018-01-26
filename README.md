@@ -159,3 +159,4 @@ Parse Server与Express Web应用程序框架协同工作。可以将其添加到
 * [ResumeSample](https://github.com/geekcompany/ResumeSample):程序员简历模板
 * [resume](https://github.com/Blankj/resume):简历生成器
 * [interview](https://github.com/hadyang/interview)：Java / Android 笔试、面试 知识整理
+* [android-interview-questions-cn](https://github.com/stormzhang/android-interview-questions-cn):最全面的高质量 Android 面试指南。
