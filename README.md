@@ -65,7 +65,7 @@ Parse Server与Express Web应用程序框架协同工作。可以将其添加到
 #### [KingTV](https://github.com/jenly1314/KingTV)
 简介：高仿全民直播（全民TV），项目采用 MVP + RXJava + Retrofit + OKHttp + Material Design + Dagger2 + Base + Glide + GreenDao构建。
 ### 设计模式
-#### java-design-patterns
+#### [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 简介:使用Java实现的设计模式实例,对于设计模式总结的比较全面
 
 ### 效果实现
