@@ -153,6 +153,8 @@ Parse Server与Express Web应用程序框架协同工作。可以将其添加到
 * [ijkplayer](https://github.com/Bilibili/ijkplayer):B站开源的支持硬解和软解的视频播放封装
 * [SmarterStreaming](https://github.com/daniulive/SmarterStreaming):大牛直播，跨平台(windows/android/iOS)推送(rtmp)、播放器(rtmp/rtsp)，支持录像、导播、动态视频合成、实时快照、水印、音频混音、互动等，国内外为数不多不依赖开源框架，业界真正靠谱的超低延迟(通常1秒左右，低延迟模式下200~400ms)。
 * [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer):视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg
+* [RxFFmpeng](https://github.com/microshow/RxFFmpeg):
+🔥RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架，包含以下功能（视频拼接，转码，压缩，裁剪，片头片尾，分离音视频，变速，添加静态贴纸和gif动态贴纸，添加字幕，添加滤镜，添加背景音乐，加速减速视频，倒放音视频，音频裁剪，变声，混音，图片合成视频，视频解码图片等主流特色功能
 ## 面试相关
 * [AndroidInterview-QA](https://github.com/1187981465/AndroidInterview--QA):顶尖互联网公司面试题及答案
 * [interviews](https://github.com/kdn251/interviews):每个程序员都要做的面试题  
@@ -160,3 +162,5 @@ Parse Server与Express Web应用程序框架协同工作。可以将其添加到
 * [resume](https://github.com/Blankj/resume):简历生成器
 * [interview](https://github.com/hadyang/interview)：Java / Android 笔试、面试 知识整理
 * [android-interview-questions-cn](https://github.com/stormzhang/android-interview-questions-cn):最全面的高质量 Android 面试指南。
+## 小程序
+[滴滴跨多端小程序解决方案chameleon](https://github.com/didi/chameleon)
